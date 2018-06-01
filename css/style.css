@@ -1,0 +1,88 @@
+* {
+    font-family: 'Kavivanar';
+    font-size: 16px;
+}
+
+img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+}
+
+form {
+    border: 1px solid gray;
+    padding: 30px 20px;
+}
+
+.formItem {
+    margin-bottom: 20px;
+}
+
+form label {
+    width: 20%;
+    display: inline-block;
+    font-weight: 700;
+}
+
+.box {
+    border-color: blue;
+    border-style: dotted;
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    margin: auto;
+    border: 2px solid red;
+    border-top-color: springgreen;
+}
+
+ul,
+li {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+
+/*header,
+footer {
+    border: 1px black solid;
+    text-align: center;
+    height: 100px;
+    color: blue;
+    font-size: 1cm;
+}
+
+#content {
+    border: 2px dotted green;
+    color: red;
+    width: 50%;
+}
+
+#sideMenu {
+    width: auto;
+    font-size: 1cm;
+}
+
+#noIde {
+    width: 70%;
+    color: green;
+}
+
+.withborder {
+    border: 1px solid grey;
+    color: blue;
+}
+
+.titolo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1.titolo {
+    font-size: 44px;
+    text-decoration: underline;
+}*/
