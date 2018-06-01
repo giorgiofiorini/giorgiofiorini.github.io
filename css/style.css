@@ -25,6 +25,12 @@ form {
     transition: background-color 0.5s ease-in-out;
 }
 
+@media (max-width: 600px) {
+    body {
+        background-color: red;
+    }
+}
+
 .bottone:hover {
     color: #6fe065;
     background-color: aqua;
