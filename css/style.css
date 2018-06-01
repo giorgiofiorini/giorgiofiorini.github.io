@@ -18,6 +18,25 @@ form {
     margin-bottom: 20px;
 }
 
+.bottone {
+    border: 1px solid gray;
+    background-color: #6fe065;
+    color: white;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.bottone:hover {
+    color: #6fe065;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.bottone large {
+    width: 300px;
+    font-size: 20px;
+    color: red;
+}
+
 form label {
     width: 20%;
     display: inline-block;
